@@ -1,7 +1,7 @@
 import React from "react";
 
 // Imports
-import Header from "../Header/Header";
+import Header from "../../components/Layout/Header/Header";
 import RecipeForm from "./RecipeForm/RecipeForm";
 
 const RecipeBox = (props) => {
