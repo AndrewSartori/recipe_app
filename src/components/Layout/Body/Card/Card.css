@@ -1,0 +1,21 @@
+.cardSpacing {
+    width: 18rem;
+    margin-bottom: 2rem;
+}
+
+.recipe_buttons {
+    border: solid 2px #e74c3c;
+    background: transparent;
+    padding: 0.4rem 0.6rem;
+    margin: 0 0.2rem;
+    border-radius: 1px;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    font-weight: 500;
+    margin-left: 0.7rem;
+}
+
+.recipeURL {
+    font-style: italic;
+    font-size: x-small;
+}
