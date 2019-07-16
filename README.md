@@ -2,8 +2,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Recipe Me Timbers, A Recipe App!
 
-A simple application demonstrating React concepts such as:
-- conditional rendering
-- listing elements using the .map() method
-- form submission to Firebase 
-- basic CRUD functionality
+A simple application demonstrating React concepts.
