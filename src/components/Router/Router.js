@@ -4,7 +4,7 @@ import { BrowserRouter, Switch, Route } from "react-router-dom";
 // Imports
 import App from "../../App";
 import FullCard from "../Layout/Body/FullCard/FullCard";
-import RecipeBox from "../Layout/RecipeBox/RecipeBox";
+import RecipeBox from "../../containers/RecipeBox/RecipeBox";
 
 const Router = () => {
     return(

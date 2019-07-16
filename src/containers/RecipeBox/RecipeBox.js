@@ -9,9 +9,7 @@ const RecipeBox = (props) => {
         <div>
             <Header />
             <div className="container">
-                <div className="d-flex flex-row justify-content-center">
-                    <RecipeForm />
-                </div>
+                <RecipeForm />
             </div>
         </div>
     );
